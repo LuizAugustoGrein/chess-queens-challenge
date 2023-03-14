@@ -1,0 +1,19 @@
+.box-empty {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-color: #ccc;
+    margin-left: 2px;
+}
+
+.box-full {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-color: blue;
+    margin-left: 2px;
+}
+
+.row {
+    margin: -1px;
+}
